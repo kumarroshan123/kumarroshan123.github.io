@@ -8,7 +8,20 @@
   scroll-behavior: smooth;
   font-family: var(--fontFamily-noto_sans);
 }
+#leetcode {
+  border-radius: 50%;
+  border: 2px solid var(--bg-carolina-blue);
+  cursor: pointer;
+  width: 60px;
+  
+}
 
+#leetcode:hover {
+  transform: scale(1.1);
+  background: var(--bg-carolina-blue);
+  color: var(--bg-oxford-blue);
+  box-shadow: 0 0 1rem var(--bg-carolina-blue);
+}
 hr {
   color: rgb(243, 8, 8);
 }
