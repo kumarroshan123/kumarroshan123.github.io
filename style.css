@@ -16,7 +16,7 @@
   
 }
 
-#leetcode:hover {
+#leetcode:hover{
   transform: scale(1.1);
   background: var(--bg-carolina-blue);
   color: var(--bg-oxford-blue);
